@@ -1,0 +1,16 @@
+C:\Users\qiyas\source\repos\11.04.22  task 1\bin\Debug\netcoreapp3.1\11.04.22  task 1.exe
+C:\Users\qiyas\source\repos\11.04.22  task 1\bin\Debug\netcoreapp3.1\11.04.22  task 1.deps.json
+C:\Users\qiyas\source\repos\11.04.22  task 1\bin\Debug\netcoreapp3.1\11.04.22  task 1.runtimeconfig.json
+C:\Users\qiyas\source\repos\11.04.22  task 1\bin\Debug\netcoreapp3.1\11.04.22  task 1.runtimeconfig.dev.json
+C:\Users\qiyas\source\repos\11.04.22  task 1\bin\Debug\netcoreapp3.1\11.04.22  task 1.dll
+C:\Users\qiyas\source\repos\11.04.22  task 1\bin\Debug\netcoreapp3.1\11.04.22  task 1.pdb
+C:\Users\qiyas\source\repos\11.04.22  task 1\obj\Debug\netcoreapp3.1\11.04.22  task 1.csproj.AssemblyReference.cache
+C:\Users\qiyas\source\repos\11.04.22  task 1\obj\Debug\netcoreapp3.1\11.04.22  task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qiyas\source\repos\11.04.22  task 1\obj\Debug\netcoreapp3.1\11.04.22  task 1.AssemblyInfoInputs.cache
+C:\Users\qiyas\source\repos\11.04.22  task 1\obj\Debug\netcoreapp3.1\11.04.22  task 1.AssemblyInfo.cs
+C:\Users\qiyas\source\repos\11.04.22  task 1\obj\Debug\netcoreapp3.1\11.04.22  task 1.csproj.CoreCompileInputs.cache
+C:\Users\qiyas\source\repos\11.04.22  task 1\obj\Debug\netcoreapp3.1\11.04.22  task 1.dll
+C:\Users\qiyas\source\repos\11.04.22  task 1\obj\Debug\netcoreapp3.1\11.04.22  task 1.pdb
+C:\Users\qiyas\source\repos\11.04.22  task 1\obj\Debug\netcoreapp3.1\11.04.22  task 1.genruntimeconfig.cache
+C:\Users\qiyas\source\repos\11.04.22  task 1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\qiyas\source\repos\11.04.22  task 1\obj\Debug\netcoreapp3.1\11.04.22  task 1.csproj.CopyComplete

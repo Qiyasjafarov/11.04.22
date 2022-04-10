@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "veLX2i2Qb0oBEACKrluL295qmt2RB41x0gcVM/0KyVD1b4GXKW/Ga0L9T2TmqpvaCR74F038ErwKBsZDGmk2bA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\qiyas\\source\\repos\\11.04.22 task 2\\11.04.22 task 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qiyas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
